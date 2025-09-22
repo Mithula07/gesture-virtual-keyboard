@@ -27,5 +27,5 @@ A **real-time virtual keyboard** controlled by hand gestures using your webcam. 
 1. Install dependencies:
 pip install opencv-python mediapipe cvzone pygame pyttsx3 SpeechRecognition
 
-2.Run the app
+2. Run the app
 python main.py
